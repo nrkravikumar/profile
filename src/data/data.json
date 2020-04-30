@@ -1,0 +1,86 @@
+{
+    "basicInfo": 
+    [
+        {
+            "name" : "N. Ravi Kumar",
+            "role" : "Multi Skill Trainer",
+            "email" : "ravikumar.n@apssdc.in",
+            "mobile": "+91 8801241231"
+        }
+    ],
+    "experience":
+    [
+        {
+            "desg" : "Trainer Cum Developer",
+            "desc" : "Worked as a Trainer Cum Developer from 1st May 2015. I had learnt and Monitored the students in some engineering colleges throughout Andhra Pradesh to enhance skills in MIT App Inventor,Mysql,Php etc.,",
+            "years" : "2 years"
+        },
+        {
+            "desg" : "Software Trainee",
+            "desc" : "Worked as a Software Trainee and trained the students regarding problem solving using C Language.Given Lecture on problem Solving skills by using C,Data Structures,Raptor,MIT App Inventor. Attended Faculty Improvement Programs Organised by APSSDC.",
+            "years" : "1 years"
+        },
+        {
+            "desg" : "Multi Skill Trainer",
+            "desc" : "At Present Working as a Multi Skill Trainer to enhance the skills to students based on Problem solving skills by using C,Python. Training the students to build their projects in Python by using Django framework",
+            "years" : "2 years"
+        }
+    ],
+    "skills":
+    [
+        {
+            "Name" : "HTML5,CSS3,Bootstrap,MySql",
+            "per" : "85"
+        },
+        {
+            "Name" : "Php",
+            "per" : "80"
+        },
+        {
+            "Name" : "C & Data Structures",
+            "per" : "90"
+        },
+        {
+            "Name" : "Python",
+            "per" : "85"
+        },
+        {
+            "Name" : "Raptor & MIT App Inventor",
+            "per" : "84"
+        }
+    ],
+    "education":
+    [
+        {
+            "degree" : "B.Tech [I.T]",
+            "institute" : "Annamacharya Institute of Technology & Sciences",
+            "percentage" : "63.3",
+            "year" : "2015" 
+        },
+        {
+            "degree" : "Intermediate [M.P.C]",
+            "institute" : "Narayana Junior College",
+            "percentage" : "77.6",
+            "year" : "2011" 
+        },
+        {
+            "degree" : "S.S.C",
+            "institute" : "V.Kota High School",
+            "percentage" : "73.3",
+            "year" : "2009" 
+        }
+
+    ],
+    "certification":
+    [
+        {
+            "crse":"Coursera",
+            "cfd": "Introduction to Programming in C - Duke University"
+        },
+        {
+            "crse":"Microsoft",
+            "cfd": "HTML5,CSS3,JavaScript"
+        }
+    ]
+}
+    
